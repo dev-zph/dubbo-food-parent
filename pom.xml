@@ -10,7 +10,6 @@
   	<modules>
 		<module>../dubbo-food-web</module>
 		<module>../dubbo-food-service</module>
-		<module>../dubbo-food-service-work</module>
 		<module>../dubbo-food-dao</module>
 		<module>../dubbo-food-entity</module>
 		<module>../dubbo-food-common</module>
